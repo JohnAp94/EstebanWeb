@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding:0px;
+  font = family:helvetica;
+  text-align: center;
+}
+
+body
+{
+  color: #cd5c5d;
+  background-image: url("https://i.imgur.com/7cG0qmy.jpg");
+  background-size: cover;
+  font-family: arial, sans-serif;
+  align-items: center;
+}
+
+#contenedor
+{
+  background-color: rgba(0,0,0, 0.75);
+  width: 70%;
+  padding: 50px;
+  border: 1px solid #cd5c5d;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-size: 50px;
+}
+
+.parr1 {
+  width: 1000px;
+  margin: 0 auto;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.label {
+  margin: 30px;
+}
+
+.footer {
+  color: black;
+  font-size: 50px;
+  background-color: rgba(255, 255, 255, 0.45);
+}
